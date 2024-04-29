@@ -1,0 +1,2 @@
+class Erreur extends Exception {
+}

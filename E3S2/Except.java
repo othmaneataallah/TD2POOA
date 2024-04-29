@@ -1,0 +1,2 @@
+class Except extends Exception {
+}
